@@ -6,8 +6,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+# /[Bb]uild/ --> biar masuk hasil build nya bre
+# /[Bb]uilds/ --> biar masuk hasil build nya bre
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
@@ -58,8 +58,8 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
-*.aab
+# *.apk
+# *.aab
 *.unitypackage
 *.unitypackage.meta
 *.app
